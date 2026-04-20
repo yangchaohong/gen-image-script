@@ -1,0 +1,5 @@
+*.ext4
+mnt
+*.dtb
+zImage
+*.bin
