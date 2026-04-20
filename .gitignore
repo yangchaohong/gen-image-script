@@ -3,3 +3,4 @@ mnt
 *.dtb
 zImage
 *.bin
+*.vfat
