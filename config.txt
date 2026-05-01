@@ -1,0 +1,4 @@
+[configs]
+bootargs=cma=4M root=/dev/mmcblk0p2 rw init=/sbin/init console=ttyS0,115200 earlyprintk=sunxi-uart,0x02500000 rootwait clk_ignore_unused
+mac_addr=11:45:0d:00:07:21
+bootdelay=0
